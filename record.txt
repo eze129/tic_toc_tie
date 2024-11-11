@@ -1,0 +1,14 @@
+best_action_epoch: 5 win ratio: 0.127 tie ratio: 0.0
+
+
+贪心：
+10000:
+best_action_epoch: 5 win ratio: 0.0931 tie ratio: 0.0
+1000：
+best_action_epoch: 10 win ratio: 0.052 tie ratio: 0.0
+best_action_epoch: 50 win ratio: 0.006 tie ratio: 0.0
+
+uct
+best_action_epoch: 10 win ratio: 0.033 tie ratio: 0.0
+best_action_epoch: 10 win ratio: 0.033 tie ratio: 0.0
+best_action_epoch: 5 win ratio: 0.132 tie ratio: 0.0
