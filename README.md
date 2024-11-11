@@ -5,3 +5,7 @@
 python run.py
 ```
 其中运行分为了两种，`随机`和`与玩家对弈`，可通过更改`actor`来完成。
+主要代码来自
+```
+https://github.com/cryer/monte-carlo-tree-search
+```
